@@ -13,7 +13,6 @@
 - [Indice](#indice)
   - [🔖&nbsp; Sobre](#-sobre)
   - [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
-  - [- SQL](#--sql)
   - [🛠 Ferramentas utilizadas](#-ferramentas-utilizadas)
   - [🗂 Como baixar o projeto](#-como-baixar-o-projeto)
 
